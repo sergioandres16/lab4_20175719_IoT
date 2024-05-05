@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sergio.lab4_20175719.app-mergeDebugResources-42:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/hector/.gradle/caches/transforms-4/c2ccca6ada875d51ced8d784111d8664/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

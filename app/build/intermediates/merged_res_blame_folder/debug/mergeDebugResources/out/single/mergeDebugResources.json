@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/navigation_nav_graph.xml.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.sergio.lab4_20175719.app-debug-44:/navigation_nav_graph.xml.flat",
+        "source": "com.sergio.lab4_20175719.app-main-46:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/drawable_sol.webp.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/drawable/sol.webp"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/layout_activity_main.xml.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/xml_backup_rules.xml.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/drawable_input_stile_custom.xml.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/drawable/input_stile_custom.xml"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/layout_activity_navigation.xml.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/layout/activity_navigation.xml"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/layout_fragment_clima.xml.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/layout/fragment_clima.xml"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/layout_activity_app.xml.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/layout/activity_app.xml"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/layout_fragment_geolocation.xml.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/layout/fragment_geolocation.xml"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-debug-44:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]

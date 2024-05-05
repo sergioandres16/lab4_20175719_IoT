@@ -1,0 +1,6 @@
+com.sergio.lab4_20175719.test.app-annotation-experimental-1.4.0-0 /home/hector/.gradle/caches/transforms-4/0bc5662434f8de5b5466319fac04b03f/transformed/annotation-experimental-1.4.0/res
+com.sergio.lab4_20175719.test.app-core-1.5.0-1 /home/hector/.gradle/caches/transforms-4/163341fd1f342bb937a6ea3e328aaab0/transformed/core-1.5.0/res
+com.sergio.lab4_20175719.test.app-androidTest-2 /home/hector/AndroidStudioProjects/lab4_20175719/app/build/generated/res/resValues/androidTest/debug
+com.sergio.lab4_20175719.test.app-mergeDebugAndroidTestResources-3 /home/hector/AndroidStudioProjects/lab4_20175719/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.sergio.lab4_20175719.test.app-mergeDebugAndroidTestResources-4 /home/hector/AndroidStudioProjects/lab4_20175719/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.sergio.lab4_20175719.test.app-debugAndroidTest-5 /home/hector/AndroidStudioProjects/lab4_20175719/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

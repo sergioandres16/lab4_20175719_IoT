@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.sergio.lab4_20175719.app-mergeDebugResources-43:/layout/fragment_geolocation.xml",
+        "source": "com.sergio.lab4_20175719.app-main-46:/layout/fragment_geolocation.xml"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-mergeDebugResources-43:/layout/activity_app.xml",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/layout/activity_app.xml"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-mergeDebugResources-43:/layout/fragment_clima.xml",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/layout/fragment_clima.xml"
+    },
+    {
+        "merged": "com.sergio.lab4_20175719.app-mergeDebugResources-43:/layout/fragment_clima.xml",
+        "source": "com.sergio.lab4_20175719.app-main-46:/layout/fragment_clima.xml"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-mergeDebugResources-43:/layout/activity_navigation.xml",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/layout/activity_navigation.xml"
+    },
+    {
+        "merged": "com.sergio.lab4_20175719.app-mergeDebugResources-43:/layout/activity_app.xml",
+        "source": "com.sergio.lab4_20175719.app-main-46:/layout/activity_app.xml"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-mergeDebugResources-43:/layout/fragment_geolocation.xml",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/layout/fragment_geolocation.xml"
+    },
+    {
+        "merged": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "/home/hector/.gradle/daemon/8.6/com.sergio.lab4_20175719.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.sergio.lab4_20175719.app-mergeDebugResources-43:/layout/activity_navigation.xml",
+        "source": "com.sergio.lab4_20175719.app-main-46:/layout/activity_navigation.xml"
+    },
+    {
+        "merged": "com.sergio.lab4_20175719.app-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "com.sergio.lab4_20175719.app-main-46:/layout/activity_main.xml"
+    }
+]

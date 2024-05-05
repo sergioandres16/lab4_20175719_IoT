@@ -1,0 +1,2 @@
+com.sergio.lab4_20175719.test:style/WhiteBackgroundTheme = 0x7f010001
+com.sergio.lab4_20175719.test:style/WhiteBackgroundDialogTheme = 0x7f010000
